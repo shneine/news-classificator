@@ -1,0 +1,4 @@
+model,accuracy,macro_f1
+Naive Bayes,0.6780,0.5840
+Logistic Regression,0.6705,0.6102
+Linear SVM,0.6705,0.6139
